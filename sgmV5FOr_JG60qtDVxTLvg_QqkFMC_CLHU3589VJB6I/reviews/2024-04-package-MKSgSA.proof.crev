@@ -1,0 +1,46 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-04-07T20:45:16.057222292-04:00
+from:
+  id-type: crev
+  id: sgmV5FOr_JG60qtDVxTLvg_QqkFMC_CLHU3589VJB6I
+  url: https://github.com/lyuts/crev-proofs
+package:
+  source: https://crates.io
+  name: hostname
+  version: 0.3.1
+  revision: 8b2b83de2fa29ab361d1902fa0504c6626824361
+  digest: L3xb8SJqUGObYEmp2Df_gCpQwpvoqD4oiwJL2Djr7yY
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+8O3FJpq9FQOkWt-aB4wgCMwI7V6ujaLoTFk2MjTl1MFJwkBQdLHDTF8LsDT7uJ35yAdl5lUyNUy-yEB4ODlzAQ
+----- END CREV PROOF -----
+
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-04-07T22:05:17.706078521-04:00
+from:
+  id-type: crev
+  id: sgmV5FOr_JG60qtDVxTLvg_QqkFMC_CLHU3589VJB6I
+  url: https://github.com/lyuts/crev-proofs
+package:
+  source: https://crates.io
+  name: hostname
+  version: 0.4.0
+  revision: 3c1df88dfd6df167e75afb91e55e747d1aaf2472
+  digest: F5zvc-JMOKw_3g-fg3Vn9EH1m8Kdla9rqxQ9LW4epcI
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Resolved the issue with null terminator on Windows.
+----- SIGN CREV PROOF -----
+6hBChtDgmTCNlFxRMITAuGPn9lLOaE5MJW9GwtBVxGr6kVBIsYe7vbgpugGOqB3qtD5iD8LwzawcBGp7uCarBQ
+----- END CREV PROOF -----
+
